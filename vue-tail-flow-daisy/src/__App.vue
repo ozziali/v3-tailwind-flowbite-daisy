@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text text-3xl stroke-indigo-50 text-center">Hello World</h1>
+    <h1 class="text text-3xl stroke-indigo-50 text-center">Hello World new</h1>
     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
         <a href="#">
             <!-- <img class="rounded-t-lg" src="https://flowbite.com/docs/images/blog/image-1.jpg" alt="" /> -->
