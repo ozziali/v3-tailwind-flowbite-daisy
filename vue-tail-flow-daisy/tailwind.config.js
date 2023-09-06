@@ -4,7 +4,9 @@ module.exports = {
       "./index.html",
       "./src/*.{vue, js, jsx, ts, tsx}",
       "./src/**/*.{vue, js, jsx, ts, tsx}",
-      "./node_modules/flowbite/**/*.js"
+      "./node_modules/flowbite/**/*.js",
+      "./node_modules/tailwindcss-animatecss/**/*.js",
+      
       
   ],
   theme: {
@@ -12,7 +14,9 @@ module.exports = {
   },
   plugins: [
     require ('flowbite'),
-    require ('daisyui')
+    require ('daisyui'),
+    
+    require ('tailwindcss-animatecss'),
   ],
 }
 
