@@ -15,7 +15,7 @@ module.exports = {
   plugins: [
     require ('flowbite'),
     require ('daisyui'),
-    
+  
     require ('tailwindcss-animatecss'),
   ],
 }
